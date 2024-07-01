@@ -53,5 +53,3 @@ class VitalsData {
         // Implement the logic to save vitals data (e.g., to a file, database, etc.)
     }
 }
-
-// correct
