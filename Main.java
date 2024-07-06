@@ -88,7 +88,7 @@ public class Main extends Application {
                 setupPatientInterface(vbox);
                 break;
         }
-
+// switch case to go through the doctor nurse and patient portal 
         vbox.getChildren().add(logoutButton);
         primaryStage.setScene(scene);
         primaryStage.show();
